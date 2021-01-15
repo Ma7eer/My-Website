@@ -1,0 +1,24 @@
+:root {
+  --base-font-size: 16px;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  min-height: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  font-size: var(--base-font-size);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
