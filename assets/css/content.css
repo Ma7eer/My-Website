@@ -1,0 +1,15 @@
+.ma-site-content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2.5rem;
+}
+
+.ma-profile-section {
+  display: flex;
+  justify-content: center;
+}
+
+.ma-profile-img {
+  border-radius: 0.5rem;
+}
