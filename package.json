@@ -1,0 +1,19 @@
+{
+  "name": "maher-alkendi-website",
+  "version": "0.1.0",
+  "description": "The personal website of Maher Alkendi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ma7eer/My-Website.git"
+  },
+  "author": "Maher Alkendi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ma7eer/My-Website/issues"
+  },
+  "homepage": "https://github.com/Ma7eer/My-Website#readme"
+}
