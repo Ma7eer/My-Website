@@ -1,0 +1,8 @@
+<svg viewBox="0 0 65 40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .small { font: bold 12px sans-serif; }
+  </style>
+
+  <text x="9" y="17" class="small">MAHER</text>
+  <text x="5" y="32" class="small">ALKENDI</text>
+</svg>
