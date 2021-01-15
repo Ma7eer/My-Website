@@ -1,15 +1,25 @@
 .ma-site-content-container {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  margin-top: 2.5rem;
+  align-items: flex-start;
+  margin: 3rem;
 }
 
 .ma-profile-section {
   display: flex;
   justify-content: center;
+  align-self: center;
 }
 
 .ma-profile-img {
   border-radius: 0.5rem;
+}
+
+.ma-about-me-container {
+  font-size: 3.5rem;
+}
+
+.ma-heading-1 {
+  line-height: 150%;
+  font-weight: 300;
 }
