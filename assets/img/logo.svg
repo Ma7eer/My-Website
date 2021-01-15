@@ -1,8 +1,19 @@
 <svg viewBox="0 0 65 40" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .small { font: bold 12px sans-serif; }
+    .small { font: bold 20px sans-serif; }
   </style>
+  <defs>
+    <linearGradient id="blue-gradient" x1="0" x2="0" y1="0" y2="100%" gradientUnits="userSpaceOnUse" >
+      <stop stop-color="#020024" offset="0%"/>
+      <stop stop-color="#090979" offset="20%"/>
+      <stop stop-color="#090d7c" offset="40%"/>
+      <stop stop-color="#034982" offset="60%"/>
+      <stop stop-color="#058eff" offset="80%"/> 
+      <stop stop-color="#1f9aff" offset="100%"/> 
+    </linearGradient>
+  </defs>
+  <text x="9" y="17" class="small" fill="hsl(0, 0%, 96%)">MAHER</text>
 
-  <text x="9" y="17" class="small">MAHER</text>
-  <text x="5" y="32" class="small">ALKENDI</text>
+  <text x="5" y="32" class="small" fill="hsl(0, 0%, 100%)">ALKENDI</text>
 </svg>
+<!-- fill="url(#blue-gradient)" -->
